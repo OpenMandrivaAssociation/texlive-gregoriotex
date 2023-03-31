@@ -1,6 +1,6 @@
 Name:		texlive-gregoriotex
 Version:	58331
-Release:	1
+Release:	2
 Summary:	Engraving Gregorian Chant scores
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gregoriotex
