@@ -3,7 +3,7 @@ Version:	58331
 Release:	2
 Summary:	Engraving Gregorian Chant scores
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gregoriotex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gregoriotex
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gregoriotex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gregoriotex.doc.r%{version}.tar.xz
